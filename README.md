@@ -6,4 +6,5 @@
 
 ## Disclaimer
 * I don't plan on updating this on the future
+* There is some bugs with GPU profiling and OpenGL support, but CPU profiling works fine
 * I have used this [derivation](https://github.com/Qubasa/nixpkgs/blob/a29b3eb0f12236ddd5be13587a561ac6f94cd799/pkgs/os-specific/linux/uprof/default.nix) as an starting point, but a lot has changed from 3.4 to 5.0
